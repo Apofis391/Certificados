@@ -1,0 +1,6 @@
+
+[2026-04-08 09:51:08] REPARAR NOMBRES (apply=True)
+Targets detectados: 3
+- TARGET pdf_procesados\C_M_ARMIJOS_POVEDA_PAG07.pdf
+- TARGET pdf_procesados\C_P_SIN_NOMBRE_SIN_NOMBRE_PAG10.pdf
+- TARGET pdf_procesados\C_X_SIN_NOMBRE_SIN_NOMBRE_PAG01.pdf

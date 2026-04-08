@@ -1,38 +1,317 @@
+Nombre del certificado	Fecha	Acción 
 
-Nombre del certificado	Fecha	Acción
-CERTIFICADO DE PROMOCIÓN - Abad Maza Nathaly Nicole	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Abad Maza Nathaly Nicole	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Aguagallo Coles Anderson Junior	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Aguagallo Coles Anderson Junior	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Aigaje Pilca Edison Bladimir	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Aigaje Pilca Edison Bladimir	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Almache Quispe Karla Nayely	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Almache Quispe Karla Nayely	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Almea León Saray Magdalena	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Almea León Saray Magdalena	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Anangono Leon Jeny Paola	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Anangono Leon Jeny Paola	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Anchundia Anchundia María Maritza	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Anchundia Anchundia María Maritza	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Andy Aguinda Rosa Jacqueline	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Andy Aguinda Rosa Jacqueline	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Andy Ushigua Yajaira Cinthia	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Andy Ushigua Yajaira Cinthia	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Angulo Caicedo Ivana Nicolee	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Angulo Caicedo Ivana Nicolee	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Añapa Añapa Lissbeth Daniela	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Añapa Añapa Lissbeth Daniela	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Añapa De la Cruz Barbara Cristina	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Añapa De la Cruz Barbara Cristina	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Añapa De la Cruz Erika Elisa	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Añapa De la Cruz Erika Elisa	01/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Abad Maza Nathaly Nicole	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Abad Maza Nathaly Nicole	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Abad Parra Claudia Maria	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Abad Parra Claudia Maria	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Aguagallo Coles Anderson Junior	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Aguagallo Coles Anderson Junior	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Aigaje Pilca Edison Bladimir	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Aigaje Pilca Edison Bladimir	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Almache Quispe Karla Nayely	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Almache Quispe Karla Nayely	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Almea León Saray Magdalena	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Almea León Saray Magdalena	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Anangono Leon Jeny Paola	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Anangono Leon Jeny Paola	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Anchundia Anchundia María Maritza	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Anchundia Anchundia María Maritza	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Andy Aguinda Rosa Jacqueline	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Andy Aguinda Rosa Jacqueline	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Andy Ushigua Yajaira Cinthia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Andy Ushigua Yajaira Cinthia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Angulo Caicedo Ivana Nicolee	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Angulo Caicedo Ivana Nicolee	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Añapa Añapa Lissbeth Daniela	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Añapa Añapa Lissbeth Daniela	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Añapa De la Cruz Barbara Cristina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Añapa De la Cruz Barbara Cristina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Añapa De la Cruz Erika Elisa	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Añapa De la Cruz Erika Elisa	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Añapa Palacios Ery Jose	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Añapa Palacios Ery Jose	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Añapa Pianchiche Jonnel Cristian	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Añapa Pianchiche Jonnel Cristian	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Añapa Tapuyo Viviana Karla	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Añapa Tapuyo Viviana Karla	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Aragundy Bravo Anahi Samantha	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Aragundy Bravo Anahi Samantha	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Araujo Vivas Danahe Valentina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Araujo Vivas Danahe Valentina	02/04/2026	 
 CERTIFICADO DE PROMOCIÓN - Añapa Palacios Ery Jose	01/04/2026	 
 CERTIFICADO DE MATRÍCULA - Añapa Palacios Ery Jose	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Añapa Pianchiche Jonnel Cristian	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Añapa Pianchiche Jonnel Cristian	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Añapa Tapuyo Viviana Karla	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Añapa Tapuyo Viviana Karla	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Aragundy Bravo Anahi Samantha	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Aragundy Bravo Anahi Samantha	01/04/2026	 
-CERTIFICADO DE PROMOCIÓN - Araujo Vivas Danahe Valentina	01/04/2026	 
-CERTIFICADO DE MATRÍCULA - Araujo Vivas Danahe Valentina	01/04/2026
+CERTIFICADO DE PROMOCIÓN - Abad Parra Claudia Maria	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Abad Parra Claudia Maria	02/04/2026
+CERTIFICADO DE PROMOCIÓN - Arcentales Delgado Lady Mishelle	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Arcentales Delgado Lady Mishelle	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Arévalo Granda Melany Kristhel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Arévalo Granda Melany Kristhel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Armijos Ocampo Elvia Betty	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Armijos Ocampo Elvia Betty	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Armijos Poveda Ana Mabel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Armijos Poveda Ana Mabel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Arroyo Mina Maicon Alis	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Arroyo Mina Maicon Alis	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Arroyo Rodríguez María del Carmen	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Arroyo Rodríguez María del Carmen	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Ascuntar Valverde Ismael Josue	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Ascuntar Valverde Ismael Josue	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Ayerve Gavidia Joselyn Gabriela	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Ayerve Gavidia Joselyn Gabriela	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Ayovi Castillo Cinthia Patricia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Ayovi Castillo Cinthia Patricia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Baltan Esmeraldas Mary Rocio	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Baltan Esmeraldas Mary Rocio	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Baque Vera Joseline Andrea	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Baque Vera Joseline Andrea	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Barcia Briones Evelyn Alejandra	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Barcia Briones Evelyn Alejandra	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Batioja Quiñonez Génesis Nicol	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Batioja Quiñonez Génesis Nicol	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Bonilla Mite Sheila Noemi	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Bonilla Mite Sheila Noemi	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Bravo Bravo Josselyn Belén	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Bravo Bravo Josselyn Belén	02/04/2026
+CERTIFICADO DE PROMOCIÓN - Caicedo Cañola Fernanda Carolina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Caicedo Cañola Fernanda Carolina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Caicedo Rivera Andrea Pilar	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Caicedo Rivera Andrea Pilar	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Campoverde Hurtado Erick Alexander	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Campoverde Hurtado Erick Alexander	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Campoverde Hurtado Franklin Jair	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Campoverde Hurtado Franklin Jair	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Catuto Caiche Ronald Alberto	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Catuto Caiche Ronald Alberto	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cedeño Chavesta Joselin ALINA	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cedeño Chavesta Joselin ALINA	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cevallos Makabenta Genevieve	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cevallos Makabenta Genevieve	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Chacha Jami Jessica Thalia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Chacha Jami Jessica Thalia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Chavesta Toala Dayana Valentina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Chavesta Toala Dayana Valentina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cheres Gracia Francisco Pablo	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cheres Gracia Francisco Pablo	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Chicaiza Candiota Dennis Alexander	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Chicaiza Candiota Dennis Alexander	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cimarron Añapa Lilibeth Stefania	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cimarron Añapa Lilibeth Stefania	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cimarron San Nicolas Fernel Juan	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cimarron San Nicolas Fernel Juan	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cuasquer Pico Ana Lizbeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cuasquer Pico Ana Lizbeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Cuasquer Pico Leonel Alejandro	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Cuasquer Pico Leonel Alejandro	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - De la Cruz Chela Mónica Esthela	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - De la Cruz Chela Mónica Esthela	02/04/2026
+CERTIFICADO DE PROMOCIÓN - De Leon Cambindo Mary Elena	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - De Leon Cambindo Mary Elena	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Del Pezo Ramirez Carlos Alfredo	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Del Pezo Ramirez Carlos Alfredo	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Delgado Castro Allisson Liceth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Delgado Castro Allisson Liceth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Díaz Huiracocha Andrea Lizbeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Díaz Huiracocha Andrea Lizbeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Dominguez Borbor Jessica Ximena	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Dominguez Borbor Jessica Ximena	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Echesi Sinailin Alex Dario	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Echesi Sinailin Alex Dario	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Escobar Azogue Andrea Ximena	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Escobar Azogue Andrea Ximena	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Escobar Gamboa Marillyn Alexandra	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Escobar Gamboa Marillyn Alexandra	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Espinoza Oñate Cristina Elizabeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Espinoza Oñate Cristina Elizabeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Etsa Yankur Joselina Irene	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Etsa Yankur Joselina Irene	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Fajardo Verduga Stephanie Isabel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Fajardo Verduga Stephanie Isabel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Flores Vaca Melany Dayana	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Flores Vaca Melany Dayana	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Grefa Yumbo Mireya Melida	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Grefa Yumbo Mireya Melida	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Gruezo Montaño Jennifer Verónica	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Gruezo Montaño Jennifer Verónica	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Guamialama Guananga Juan Sebastian	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Guamialama Guananga Juan Sebastian	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Guananga Guamangallo Yahaira Briggitte	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Guananga Guamangallo Yahaira Briggitte	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Guanotuña Quinga Erika Irene	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Guanotuña Quinga Erika Irene	02/04/2026
+CERTIFICADO DE PROMOCIÓN - Jima Narvaez Patrick Steven	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jima Narvaez Patrick Steven	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jima Velastegui Douglas Jael	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jima Velastegui Douglas Jael	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jima Velastegui Lesly Patricia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jima Velastegui Lesly Patricia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jiménez Campaña Cristina Guadalupe	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jiménez Campaña Cristina Guadalupe	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jiménez Jiménez Diana Maribel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jiménez Jiménez Diana Maribel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jumbo Mena Yuri Manuel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jumbo Mena Yuri Manuel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Largo Jaramillo Jocyn Michael	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Largo Jaramillo Jocyn Michael	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Larroza Acosta Anggi Fernanda	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Larroza Acosta Anggi Fernanda	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - León Ramírez Nayelly Lisbeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - León Ramírez Nayelly Lisbeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Llanganate Manobanda Joselyn Estefania	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Llanganate Manobanda Joselyn Estefania	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Loor Gracia Jeramy Leonardo	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Loor Gracia Jeramy Leonardo	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Lopez Andy Hender Willy	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Lopez Andy Hender Willy	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Macías Saltos Karla Julissa	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Macías Saltos Karla Julissa	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Malla Rivera Yesenia del Pilar	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Malla Rivera Yesenia del Pilar	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Mamallacta Alvarado Thalia Rosa	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Mamallacta Alvarado Thalia Rosa	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Manrique Guachamin Melany Yajaira	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Manrique Guachamin Melany Yajaira	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Mato Suarez Noelia Noemi	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Mato Suarez Noelia Noemi	02/04/2026
+CERTIFICADO DE PROMOCIÓN - Jima Narvaez Patrick Steven	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jima Narvaez Patrick Steven	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jima Velastegui Douglas Jael	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jima Velastegui Douglas Jael	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jima Velastegui Lesly Patricia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jima Velastegui Lesly Patricia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jiménez Campaña Cristina Guadalupe	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jiménez Campaña Cristina Guadalupe	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jiménez Jiménez Diana Maribel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jiménez Jiménez Diana Maribel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Jumbo Mena Yuri Manuel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Jumbo Mena Yuri Manuel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Largo Jaramillo Jocyn Michael	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Largo Jaramillo Jocyn Michael	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Larroza Acosta Anggi Fernanda	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Larroza Acosta Anggi Fernanda	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - León Ramírez Nayelly Lisbeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - León Ramírez Nayelly Lisbeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Llanganate Manobanda Joselyn Estefania	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Llanganate Manobanda Joselyn Estefania	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Loor Gracia Jeramy Leonardo	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Loor Gracia Jeramy Leonardo	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Lopez Andy Hender Willy	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Lopez Andy Hender Willy	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Macías Saltos Karla Julissa	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Macías Saltos Karla Julissa	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Malla Rivera Yesenia del Pilar	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Malla Rivera Yesenia del Pilar	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Mamallacta Alvarado Thalia Rosa	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Mamallacta Alvarado Thalia Rosa	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Manrique Guachamin Melany Yajaira	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Manrique Guachamin Melany Yajaira	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Mato Suarez Noelia Noemi	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Mato Suarez Noelia Noemi	02/04/2026
+CERTIFICADO DE PROMOCIÓN - Palacios Garzon Erika Paola	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Palacios Garzon Erika Paola	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Pincay Cruz Darlyn Smelyn	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Pincay Cruz Darlyn Smelyn	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Pozo Zuñiga Grace Carolina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Pozo Zuñiga Grace Carolina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Pozo Zuñiga Nicole Estefania	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Pozo Zuñiga Nicole Estefania	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Pullupaxi Torres Erika Alexandra	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Pullupaxi Torres Erika Alexandra	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Pulupa Puma Anthony Daniel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Pulupa Puma Anthony Daniel	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Quijije Coello Cristian Eduardo	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Quijije Coello Cristian Eduardo	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Quinto Fariño Melany Nicole	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Quinto Fariño Melany Nicole	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Quiñonez Jaramillo Maureen Danahe	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Quiñonez Jaramillo Maureen Danahe	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Quiñonez Jaramillo Yuly Adriana	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Quiñonez Jaramillo Yuly Adriana	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Quiñonez Marín Maoli Anabella	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Quiñonez Marín Maoli Anabella	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Quishpe Sánchez Carlos Esteban	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Quishpe Sánchez Carlos Esteban	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Reasco Landazuri Andrea	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Reasco Landazuri Andrea	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Remache León Ricardo Josué	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Remache León Ricardo Josué	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Rincones Quiñonez Jeily Thais	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Rincones Quiñonez Jeily Thais	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Rios Caicedo Digson Jacob	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Rios Caicedo Digson Jacob	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Rivas Farfán Bárbara del Valles	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Rivas Farfán Bárbara del Valles	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Rodríguez Velez Romario Alexander	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Rodríguez Velez Romario Alexander	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Romero Charcopa Angela Daniela	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Romero Charcopa Angela Daniela	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Ruano Medina Alany Soraly	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Ruano Medina Alany Soraly	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Rubio Ortiz Tifany Valentina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Rubio Ortiz Tifany Valentina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Salinas Romero Kevin Josué	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Salinas Romero Kevin Josué	02/04/2026
+CERTIFICADO DE MATRÍCULA - Suarez Toala Melany Monserrate	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tanguila Andi Welington Remigio	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tanguila Andi Welington Remigio	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tanguila Chimbo Lesli Margoth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tanguila Chimbo Lesli Margoth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tapuy Licuy Emer Livio	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tapuy Licuy Emer Livio	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tigasi Cayo Deysi Maritza	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tigasi Cayo Deysi Maritza	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Toapanta Anrango Erika Nayeli	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Toapanta Anrango Erika Nayeli	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tomala Fajardo Ana Gabriela	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tomala Fajardo Ana Gabriela	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tomalá Tomalá Cindy Lisbeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tomalá Tomalá Cindy Lisbeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tonato Tonato Jennifer Anahi	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tonato Tonato Jennifer Anahi
+CERTIFICADO DE PROMOCIÓN - Torres Sigcho Geanella Lizbeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Torres Sigcho Geanella Lizbeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Travez Benitez Shirley Tatiana	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Travez Benitez Shirley Tatiana	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tubay Velez Fernando Xavier	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tubay Velez Fernando Xavier	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tucupi Chumpi Olivia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tucupi Chumpi Olivia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Tufiño Garcia Keysa Jael	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Tufiño Garcia Keysa Jael	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Ulcuango Muenala Jessica Paulina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Ulcuango Muenala Jessica Paulina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Umaquinga Aigaje Lizbeth Soledad	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Umaquinga Aigaje Lizbeth Soledad	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Uquillas Cuzco Maria Fernanda	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Uquillas Cuzco Maria Fernanda	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Urcuango Juma Nidia Patricia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Urcuango Juma Nidia Patricia	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Vaca Alverca Lucia Adamari	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Vaca Alverca Lucia Adamari	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Valderrama Ronquillo Kevin Vicente	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Valderrama Ronquillo Kevin Vicente	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Valencia Caicedo Ariana Carolina	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Valencia Caicedo Ariana Carolina	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Valenzuela Cruz Hergie Andrea	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Valenzuela Cruz Hergie Andrea	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Valenzuela Holguin Nataly Nicol	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Valenzuela Holguin Nataly Nicol	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Vega Noboa Angel Eber	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Vega Noboa Angel Eber	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Vega Orozco Rosario Del Carmen	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Vega Orozco Rosario Del Carmen	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Vela Mora Kevin Paul	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Vela Mora Kevin Paul	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Vera Yagual Ivan De Jesus	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Vera Yagual Ivan De Jesus	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Villacis Quintero Beatriz Elizabeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Villacis Quintero Beatriz Elizabeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Vinces Solorzano Steven Joel	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Vinces Solorzano Steven Joel	02/04/2026
+CERTIFICADO DE PROMOCIÓN - Yampik Yurank Damaris Abigail	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Yampik Yurank Damaris Abigail	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Yumbo Shiguango Evelin Gabriela	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Yumbo Shiguango Evelin Gabriela	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Zambrano Chugchilan Carla Lizeth	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Zambrano Chugchilan Carla Lizeth	02/04/2026	 
+CERTIFICADO DE PROMOCIÓN - Zambrano Mera Jessica Jessenia	02/04/2026	 
+CERTIFICADO DE MATRÍCULA - Zambrano Mera Jessica Jessenia	02/04/2026

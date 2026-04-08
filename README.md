@@ -2,6 +2,12 @@
 
 Convierte PDFs ubicados en `pdf/` en PDFs individuales (1 página = 1 archivo) dentro de `pdf_procesados/`.
 
+La versión actual guarda **todo en la raíz** de `pdf_procesados/` (no crea subcarpetas nuevas):
+
+- `pdf_procesados/C_<TIPO>_<APELLIDO>_<NOMBRE>_PAG##.pdf`
+
+> Nota: si ya tienes subcarpetas de ejecuciones anteriores (por ejemplo `pdf_procesados/20260407_142728/`), el script las **reconoce** al validar/deduplicar, pero **ya no crea** carpetas nuevas.
+
 Además, compara lo generado contra una **lista de control** en `pdf_generados_dev.txt` (la lista de lo que debes imprimir/firmar). Si algo falta, lo reporta en un log.
 
 ---
@@ -25,6 +31,12 @@ python procesar.py
   - `pdf_procesados/` contiene los PDFs separados
   - si hubo faltantes, revisas `pdf_procesados/faltantes.log`
 
+Opcional (recomendado si los nombres en los PDFs salen con alguna letra cambiada por OCR):
+
+```powershell
+python verificar_faltantes_fuzzy.py
+```
+
 ## Índice
 
 - [Qué hace](#qué-hace)
@@ -35,6 +47,7 @@ python procesar.py
 - [Validación con pdf_generados_dev.txt (lista de control)](#validación-con-pdf_generados_devtxt-lista-de-control)
 - [Dónde ver faltantes](#dónde-ver-faltantes)
 - [Re-ejecución / no reprocesar](#re-ejecución--no-reprocesar)
+- [Comandos (todas las funciones)](#comandos-todas-las-funciones)
 - [Solución de problemas](#solución-de-problemas)
 
 ---
@@ -48,6 +61,107 @@ python procesar.py
    - Intenta extraer `Nombre` y `Apellido`.
 3. Exporta cada página como un nuevo PDF dentro de `pdf_procesados/`.
 4. Al finalizar, valida contra `pdf_generados_dev.txt` y registra faltantes en `pdf_procesados/faltantes.log`.
+
+---
+
+## Comandos (todas las funciones)
+
+> Todos los comandos siguientes NO crean subcarpetas nuevas. Para evitar OCR/reescrituras usa siempre `--solo-validar`.
+
+### 1) Separar PDFs (modo normal)
+
+Procesa todo lo que haya en `pdf/` y separa páginas (si ya existe, no vuelve a exportar):
+
+```powershell
+python procesar.py
+```
+
+### 2) Validar vs lista (sin OCR)
+
+```powershell
+python procesar.py --solo-validar
+```
+
+### 3) Limpieza recomendada (sin OCR) — “limpiar duplicados”
+
+1) Duplicados por lista (incluye duplicados que solo cambian `PAG##`):
+
+```powershell
+python procesar.py --solo-validar --dedupe-por-lista --dedupe-delete --yes
+```
+
+2) Duplicados idénticos por contenido (hash SHA-256):
+
+```powershell
+python procesar.py --solo-validar --dedupe-hash --dedupe-delete --yes
+```
+
+Logs:
+
+- `pdf_procesados/duplicados_eliminados_por_lista.txt`
+- `pdf_procesados/duplicados_eliminados_por_hash.txt`
+
+### 4) Duplicados por persona ignorando `PAG##` (modo seguro)
+
+Detecta duplicados por persona/tipo aunque el `PAG##` sea distinto. En modo seguro solo elimina si el contenido es equivalente.
+
+Reporte:
+
+```powershell
+python procesar.py --solo-validar --dedupe-persona
+```
+
+Eliminar (modo seguro):
+
+```powershell
+python procesar.py --solo-validar --dedupe-persona --dedupe-delete --yes
+```
+
+Forzar (agresivo, deja solo 1 por persona aunque el contenido difiera):
+
+```powershell
+python procesar.py --solo-validar --dedupe-persona --dedupe-persona-force --dedupe-delete --yes
+```
+
+Log:
+
+- `pdf_procesados/duplicados_eliminados_por_persona.txt`
+
+### 5) Reparar nombres incompletos (por OCR)
+
+Preview:
+
+```powershell
+python procesar.py --solo-validar --reparar-nombres
+```
+
+Aplicar:
+
+```powershell
+python procesar.py --solo-validar --reparar-nombres --yes
+```
+
+Log:
+
+- `pdf_procesados/reparaciones_nombres.txt`
+
+### 6) Generar SOLO los faltantes desde `pdf/` (sin crear carpetas)
+
+Si el validador dice “faltan X”, genera únicamente esos faltantes, exportando a la raíz de `pdf_procesados/`:
+
+```powershell
+python procesar.py --solo-validar --generar-faltantes
+```
+
+Log:
+
+- `pdf_procesados/generados_faltantes.txt`
+
+### 7) Limpieza automática de nombres `SRC...`
+
+Si quedaron archivos legacy tipo `C_M_SRC<id>_..._PAG##.pdf`, el script los renombra automáticamente a su versión sin `SRC` al iniciar.
+
+---
 
 ---
 
@@ -137,12 +251,18 @@ Para evitar problemas de Windows con caracteres, los nombres de archivo se norma
 
 - Se convierten a MAYÚSCULAS.
 - Se reemplazan espacios por `_`.
-- Se eliminan tildes y caracteres especiales (por ejemplo `León` → `LEON`, `Añapa` → `ANAPA`).
+- Se eliminan caracteres inválidos para Windows (por ejemplo `<>:"/\\|?*`).
 
 Ejemplo real:
 
 ```text
 C_P_ABAD_MAZA_NATHALY_NICOLE_PAG01.pdf
+```
+
+### Nota sobre `SRC...`
+
+Si ves archivos con `SRC...` en el nombre, son de ejecuciones anteriores (un esquema viejo).
+La versión actual ya no crea `SRC...` y además los **renombra automáticamente** (sin crear carpetas) para evitar duplicados.
 ```
 
 ---
@@ -153,7 +273,83 @@ C_P_ABAD_MAZA_NATHALY_NICOLE_PAG01.pdf
 
 `pdf_generados_dev.txt` es tu **lista de certificados que deberían existir** (para saber si te faltó imprimir/firmar alguno).
 
-Al final de la ejecución, el script compara lo que existe en `pdf_procesados/` contra esa lista.
+Al final de la ejecución, el script compara lo que existe en `pdf_procesados/` (incluyendo subcarpetas) contra esa lista.
+
+### Opcional: quitar duplicados antes de validar
+
+Si tienes copias exactas del mismo PDF (mismo nombre de archivo) en más de una ruta, puedes limpiar antes de validar:
+
+```powershell
+python procesar.py --solo-validar --dedupe-por-lista --dedupe-delete --yes
+```
+
+Esto elimina duplicados **solo si están en** `pdf_generados_dev.txt` y deja un log en:
+
+- `pdf_procesados/duplicados_eliminados_por_lista.txt`
+
+Si solo quieres que avise (sin borrar):
+
+```powershell
+python procesar.py --solo-validar --dedupe-por-lista --dedupe
+```
+
+### Limpieza extra (copias idénticas aunque tengan distinto nombre)
+
+Si sigues encontrando “duplicados” pero con nombres diferentes (misma página exportada varias veces), usa dedupe por contenido (hash):
+
+```powershell
+python procesar.py --solo-validar --dedupe-hash --dedupe-delete --yes
+```
+
+### Reparar nombres incompletos (por OCR)
+
+Si existe un PDF con nombre incompleto (ej. `C_M_ARMIJOS_POVEDA_PAG07.pdf`), puedes repararlo con OCR:
+
+Preview (no aplica cambios):
+
+```powershell
+python procesar.py --solo-validar --reparar-nombres
+```
+
+Aplicar renombres:
+
+```powershell
+python procesar.py --solo-validar --reparar-nombres --yes
+```
+
+Log:
+
+- `pdf_procesados/reparaciones_nombres.txt`
+
+### (Opcional) Mover a la raíz de pdf_procesados/
+
+Si quedaron PDFs dentro de subcarpetas y quieres todo plano en `pdf_procesados/`:
+
+```powershell
+python procesar.py --solo-validar --mover-a-raiz --yes
+```
+
+Log:
+
+- `pdf_procesados/mover_a_raiz.log`
+
+### Generar SOLO los faltantes desde pdf/
+
+Si el validador dice “faltan X”, puedes generar únicamente esos faltantes (escanea PDFs en `pdf/` y exporta a la raíz de `pdf_procesados/`):
+
+```powershell
+python procesar.py --solo-validar --generar-faltantes
+```
+
+Log:
+
+- `pdf_procesados/generados_faltantes.txt`
+
+Si quieres procesar los PDFs y luego deduplicar/validar al final de la corrida (más lento):
+
+```powershell
+python procesar.py --dedupe-delete --yes
+```
 
 ### Formato recomendado (tu formato actual)
 
@@ -187,8 +383,10 @@ Esto es lo más estricto y elimina ambigüedades (si falta ese archivo exacto, s
 ### Duplicados (importante)
 
 - La validación es **por línea**.
-- Si una misma línea aparece 2 veces en el `.txt`, el validador esperará **2 PDFs distintos** que puedan satisfacerla.
-  - Esto ayuda a detectar faltantes reales cuando tu lista tiene repetidos.
+- Por defecto, si una misma persona/tipo aparece repetida en `pdf_generados_dev.txt`, se considera **duplicado de la lista** y se ignora.
+  - Se registra en `pdf_procesados/esperados_duplicados.txt`.
+- Si necesitas el comportamiento antiguo (contar repetidos como requerimientos adicionales), usa:
+  - `python procesar.py --solo-validar --contar-repetidos`
 
 ---
 
@@ -215,11 +413,60 @@ Eso permite:
 - Re-ejecutar sin volver a exportar páginas ya generadas.
 - Saltar PDFs que ya fueron procesados (si no cambiaron en tamaño/fecha).
 
+Importante:
+
+- Si cancelas con `Ctrl+C`, el script guarda progreso parcial en el registro para que al re-ejecutar no regenere lo ya exportado.
+
+### Si quieres limpiar nombres viejos (por ejemplo `SRC...`)
+
+Opción rápida (reinicio total):
+
+1. Borra PDFs en `pdf_procesados/` (opcional)
+2. Borra `pdf_procesados/.procesados.json`
+3. Ejecuta `python procesar.py`
+
 Si necesitas “empezar desde cero”:
 
 1. Borra PDFs en `pdf_procesados/` (opcional)
 2. Borra `pdf_procesados/.procesados.json`
 3. Ejecuta `python procesar.py`
+
+---
+
+## Detectar/eliminar duplicados exactos
+
+Si por algún motivo te quedan archivos repetidos con el mismo nombre base (por ejemplo:
+`C_P_VEGA_OROZCO_ROSARIO_DEL_CARMEN_PAG01.pdf` y `..._PAG02.pdf`), puedes detectarlos y eliminarlos.
+
+### Solo reporte (no borra nada)
+
+```powershell
+python limpiar_duplicados.py
+```
+
+Por defecto usa un modo seguro (`--mode base+pag`) que solo marca duplicado cuando coincide el nombre base + el `PAG##`.
+
+### Modo agresivo (por nombre base sin importar PAG)
+
+Úsalo solo si quieres quedarte con 1 archivo por nombre base (por ejemplo, porque el mismo certificado se generó varias veces):
+
+```powershell
+python limpiar_duplicados.py --mode base
+```
+
+### Eliminar duplicados (deja 1 por clave)
+
+Por seguridad requiere confirmación con `--yes`.
+
+```powershell
+python limpiar_duplicados.py --mode base+pag --keep prefer-subdir --delete --yes
+```
+
+Opcional: elegir cuál conservar
+
+```powershell
+python limpiar_duplicados.py --delete --yes --keep lowest-pag
+```
 
 ---
 

@@ -1,0 +1,160 @@
+
+[2026-04-08 09:38:37] Duplicados ignorados en pdf_generados_dev.txt: 38
+- CERTIFICADO DE PROMOCIÓN - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE MATRÍCULA - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE PROMOCIÓN - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE MATRÍCULA - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mato Suarez Noelia Noemi	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mato Suarez Noelia Noemi	02/04/2026
+
+[2026-04-08 09:51:19] Duplicados ignorados en pdf_generados_dev.txt: 38
+- CERTIFICADO DE PROMOCIÓN - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE MATRÍCULA - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE PROMOCIÓN - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE MATRÍCULA - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mato Suarez Noelia Noemi	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mato Suarez Noelia Noemi	02/04/2026
+
+[2026-04-08 09:51:31] Duplicados ignorados en pdf_generados_dev.txt: 38
+- CERTIFICADO DE PROMOCIÓN - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE MATRÍCULA - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE PROMOCIÓN - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE MATRÍCULA - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mato Suarez Noelia Noemi	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mato Suarez Noelia Noemi	02/04/2026
+
+[2026-04-08 09:51:46] Duplicados ignorados en pdf_generados_dev.txt: 38
+- CERTIFICADO DE PROMOCIÓN - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE MATRÍCULA - Añapa Palacios Ery Jose	01/04/2026
+- CERTIFICADO DE PROMOCIÓN - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Abad Parra Claudia Maria	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Narvaez Patrick Steven	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Douglas Jael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jima Velastegui Lesly Patricia	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Campaña Cristina Guadalupe	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jiménez Jiménez Diana Maribel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Jumbo Mena Yuri Manuel	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Largo Jaramillo Jocyn Michael	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Larroza Acosta Anggi Fernanda	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE MATRÍCULA - León Ramírez Nayelly Lisbeth	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Llanganate Manobanda Joselyn Estefania	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Loor Gracia Jeramy Leonardo	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Lopez Andy Hender Willy	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Macías Saltos Karla Julissa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Malla Rivera Yesenia del Pilar	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mamallacta Alvarado Thalia Rosa	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Manrique Guachamin Melany Yajaira	02/04/2026
+- CERTIFICADO DE PROMOCIÓN - Mato Suarez Noelia Noemi	02/04/2026
+- CERTIFICADO DE MATRÍCULA - Mato Suarez Noelia Noemi	02/04/2026
